@@ -1,0 +1,25 @@
+{
+  "name": "slot-ganesha",
+  "main": "./lib/slot-ganesha",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+    "ganesha gold",
+    "สล็อตพระพิฆเนศ168",
+    "เกมสล็อตพระพิฆเนศ",
+    "ทองแห่งคเณศ",
+    "สล็อตโชคลาภแห่งคเณศ",
+    "เกมพระพิฆเนศ pg",
+    "ทดลองเล่นสล็อต พระพิฆเนศ"
+  ],
+  "activationCommands": {
+    "atom-workspace": "slot-ganesha:toggle"
+  },
+  "repository": "https://github.com/slotteam168/slot-ganesha",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
