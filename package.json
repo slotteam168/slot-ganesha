@@ -1,5 +1,5 @@
 {
-  "name": "slot-ganesha",
+  "name": "สล็อตพระพิฆเนศ เว้ฐสล็อต pgking168",
   "main": "./lib/slot-ganesha",
   "version": "0.0.0",
   "description": "สล็อตพระพิฆเนศ เล่นง่ายได้เงินไว สล็อต โบนัสฟรี กดรับเอง ไม่ต้องฝาก ไม่ต้องแชร์",
@@ -20,6 +20,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
