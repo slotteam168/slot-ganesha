@@ -1,6 +1,6 @@
 {
   "name": "สล็อตพระพิฆเนศ เว้ฐสล็อต pgking168",
-  "main": "./lib/สล็อตพระพิฆเนศ เว้ฐสล็อต pgking168",
+  "main": "./lib/slot-ganesha",
   "version": "0.0.0",
   "description": "สล็อตพระพิฆเนศ เล่นง่ายได้เงินไว สล็อต โบนัสฟรี กดรับเอง ไม่ต้องฝาก ไม่ต้องแชร์",
   "keywords": [
@@ -13,7 +13,7 @@
     "ทดลองเล่นสล็อต พระพิฆเนศ"
   ],
   "activationCommands": {
-    "atom-workspace": "สล็อตพระพิฆเนศ เว้ฐสล็อต pgking168:toggle"
+    "atom-workspace": "slot-ganesha:toggle"
   },
   "repository": "https://github.com/slotteam168/slot-ganesha",
   "license": "MIT",
